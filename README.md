@@ -1,1 +1,1 @@
-# pytest（Prototype）
+# pytest（prototype）
